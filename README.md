@@ -6,4 +6,4 @@
 
 <h2>🚀 Demo</h2>
 
-https://premvaidya.github.io/svwebproject/
+https://premvaidya.github.io/svwork/
